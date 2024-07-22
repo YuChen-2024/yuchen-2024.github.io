@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yu Chen|陳渝"
 description              : "Research scientist working on plant regeneration"
-repository               : "YuChen/yuchen.github.io"
+repository               : "yuchen/yuchen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

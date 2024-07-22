@@ -1,5 +1,5 @@
 ---
-permalink: /https://yuchen.github.io
+permalink: https://yuchen.github.io
 title: ""
 excerpt: ""
 author_profile: true
